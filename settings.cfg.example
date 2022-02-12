@@ -1,7 +1,7 @@
 [main]
-server: someserver.tld
-username: user@blah.tld
-password: somepassword
+server: rexkh.aternos.me
+username: Master
+password:
 
 [localhost]
 server: localhost
